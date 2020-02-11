@@ -1,0 +1,9 @@
+{
+  "body": "{\"productName\":\"Minion Test\", \"productId\":\"ID0123#ABC\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
+
